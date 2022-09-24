@@ -30,7 +30,7 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              onedrive-vercel-index discussions
+              libmind.com
             </a>
             .
           </Trans>
