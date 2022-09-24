@@ -32,7 +32,7 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
             >
               libmind.com
             </a>
-            .
+            
           </Trans>
         </div>
       </div>
