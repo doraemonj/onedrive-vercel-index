@@ -23,7 +23,7 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
             <kbd className="rounded border border-gray-400/20 bg-gray-100 px-1 font-mono text-xs dark:bg-gray-800">
               F12
             </kbd>{' '}
-            键打开开发工具，联系微信：oftendie，网站{' '}
+            键，打开开发工具，联系微信：oftendie，网站{' '}
             <a
               className="text-blue-600 hover:text-blue-700 hover:underline"
               href="https://libmind.com"
