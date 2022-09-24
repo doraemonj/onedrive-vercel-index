@@ -19,11 +19,11 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
         </div>
         <div className="text-sm">
           <Trans>
-            Press{' '}
+            按{' '}
             <kbd className="rounded border border-gray-400/20 bg-gray-100 px-1 font-mono text-xs dark:bg-gray-800">
               F12
             </kbd>{' '}
-            and open devtools for more details, or seek help at{' '}
+            键，打开开发工具，联系微信：oftendie，网站{' '}
             <a
               className="text-blue-600 hover:text-blue-700 hover:underline"
               href="https://libmind.com"
